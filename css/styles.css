@@ -1,0 +1,43 @@
+/******************************TAG SELECTORS****************************/
+
+body{
+background-color: #F5EDCE;
+}
+hr{
+background-color: #F5EDCE;
+border-style: none;
+border-top-style: dotted;
+width: 100%;
+border-color: grey;
+border-width: 3px;
+}
+/*h1{
+color: #939B62;
+}*/
+/* h3{
+color: #579BB1;
+}*/
+h2{
+color: #579BB1;
+}
+img{
+border-radius: 100%;
+}
+/******************************CLASS SELECTORS****************************/
+.skills{
+color: #FF597B;
+}
+.hobbies{
+color: #FF597B;
+}
+.schooling{
+color: #FF597B
+}
+.p1{
+color: #0081C9;
+font-size: 25px;
+}
+/******************************ID SELECTORS****************************/
+#heading {
+color: #3A4F7A;
+}
